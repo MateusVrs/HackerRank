@@ -26,8 +26,18 @@ print(r+m if m != 0 else r-1)
 # 2 3 4 1 5
 
 # Second Attempt
-n = list(map(lambda x: False, range(int(input()))))
+n = list(range(int(input())+1))
 l = list(map(int, input().split()))
-r = 0
-
+r = p = 0
+while len(n) != 1:
+    if l[p] != p+1:
+        n.remove(p)
+        p = l[p]-1
+        if p not in n:
+            p = min(n)
+            r -= 1
+        r += 1
+    else:
+        n.remove(p)
+        p = min(n)
 print(r)
