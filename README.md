@@ -25,7 +25,7 @@
 <br>
 ✔ New Year Chaos
 <br>
-✖ Minimum Swaps 2
+✔ Minimum Swaps 2
 <br>
 ✖ Array Manipulation
 </p>
