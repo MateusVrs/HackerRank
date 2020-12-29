@@ -1,7 +1,6 @@
 n = int(input())
 l = list(map(int, input().split()))
 r = 0
-
 for p in range(n):
     while l[p] != p+1:
         x = int(l[p])
