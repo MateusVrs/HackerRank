@@ -27,7 +27,7 @@
 <br>
 ✔ Minimum Swaps 2
 <br>
-✖ Array Manipulation
+✔ Array Manipulation
 </p>
 
 <p align='center'>. . .</p>
