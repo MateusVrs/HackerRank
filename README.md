@@ -30,4 +30,13 @@
 ✔ Array Manipulation
 </p>
 
+<a href='https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges'><h3> → Dictionaries and Hashmaps </h3></a>
+<p>
+✔ Hash Tables: Ransom Note
+<br>
+✔ Two Strings
+<br>
+✖ Sherlock and Anagrams
+</p>
+
 <p align='center'>. . .</p>
