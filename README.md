@@ -36,7 +36,9 @@
 <br>
 ✔ Two Strings
 <br>
-✖ Sherlock and Anagrams
+✔ Sherlock and Anagrams
+<br>
+✔ Count Triplets
 </p>
 
 <p align='center'>. . .</p>
